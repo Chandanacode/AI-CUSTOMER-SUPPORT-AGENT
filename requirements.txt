@@ -1,0 +1,8 @@
+streamlit
+fastapi
+uvicorn
+chromadb
+google-genai
+python-dotenv
+requests
+pydantic
